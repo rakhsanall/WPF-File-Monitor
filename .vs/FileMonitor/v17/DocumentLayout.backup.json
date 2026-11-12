@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3A701-4270-4A56-883C-C8067209A5F9}|FileMonitor.Tests\\FileMonitor.Tests.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor.tests\\loadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA3A701-4270-4A56-883C-C8067209A5F9}|FileMonitor.Tests\\FileMonitor.Tests.csproj|solutionrelative:filemonitor.tests\\loadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\loadersettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\loadersettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\services\\fileloadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\services\\fileloadermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\plugins\\sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\plugins\\sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\interfaces\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA3A701-4270-4A56-883C-C8067209A5F9}|FileMonitor.Tests\\FileMonitor.Tests.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor.tests\\filemonitor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEA3A701-4270-4A56-883C-C8067209A5F9}|FileMonitor.Tests\\FileMonitor.Tests.csproj|solutionrelative:filemonitor.tests\\filemonitor.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04F572B-F3AB-4F66-B27D-C81E4AA6AF0A}|JsonPlugin\\JsonPlugin.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\jsonplugin\\jsonplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C04F572B-F3AB-4F66-B27D-C81E4AA6AF0A}|JsonPlugin\\JsonPlugin.csproj|solutionrelative:jsonplugin\\jsonplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04F572B-F3AB-4F66-B27D-C81E4AA6AF0A}|JsonPlugin\\JsonPlugin.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\jsonplugin\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04F572B-F3AB-4F66-B27D-C81E4AA6AF0A}|JsonPlugin\\JsonPlugin.csproj|solutionrelative:jsonplugin\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\filemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\filemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|c:\\users\\allah\\onedrive\\desktop\\filemonitor\\filemonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{60F47AD0-3D33-4378-953D-03ADC9A783AC}|FileMonitor\\FileMonitor.csproj|solutionrelative:filemonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLoaderManager.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Services\\FileLoaderManager.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Services\\FileLoaderManager.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Services\\FileLoaderManager.cs",
+              "RelativeToolTip": "FileMonitor\\Services\\FileLoaderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:20:07.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loaderSettings.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\loaderSettings.json",
+              "RelativeDocumentMoniker": "FileMonitor\\loaderSettings.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\loaderSettings.json",
+              "RelativeToolTip": "FileMonitor\\loaderSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T14:18:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor.Tests\\LoaderTests.cs",
+              "RelativeDocumentMoniker": "FileMonitor.Tests\\LoaderTests.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor.Tests\\LoaderTests.cs",
+              "RelativeToolTip": "FileMonitor.Tests\\LoaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:23:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\README.md",
+              "RelativeDocumentMoniker": "FileMonitor\\README.md",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\README.md",
+              "RelativeToolTip": "FileMonitor\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-02T15:08:35.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileMonitor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\MainWindow.xaml",
+              "RelativeToolTip": "FileMonitor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-02T10:03:29.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sample.json",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Plugins\\Sample.json",
+              "RelativeDocumentMoniker": "FileMonitor\\Plugins\\Sample.json",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Plugins\\Sample.json",
+              "RelativeToolTip": "FileMonitor\\Plugins\\Sample.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-02T14:08:04.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Models\\FileData.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Models\\FileData.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Models\\FileData.cs",
+              "RelativeToolTip": "FileMonitor\\Models\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:15:42.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\AssemblyInfo.cs",
+              "RelativeToolTip": "FileMonitor\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:09:13.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FileMonitor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAIwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:03:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XmlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\XmlLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Loaders\\XmlLoader.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\XmlLoader.cs",
+              "RelativeToolTip": "FileMonitor\\Loaders\\XmlLoader.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:02:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TxtLoader.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\TxtLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Loaders\\TxtLoader.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\TxtLoader.cs",
+              "RelativeToolTip": "FileMonitor\\Loaders\\TxtLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:14:12.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Loaders\\CsvLoader.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Loaders\\CsvLoader.cs",
+              "RelativeToolTip": "FileMonitor\\Loaders\\CsvLoader.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:56:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Interfaces\\IFileLoader.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\Interfaces\\IFileLoader.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\Interfaces\\IFileLoader.cs",
+              "RelativeToolTip": "FileMonitor\\Interfaces\\IFileLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:42:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileMonitor.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor.Tests\\FileMonitor.Tests.csproj",
+              "RelativeDocumentMoniker": "FileMonitor.Tests\\FileMonitor.Tests.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor.Tests\\FileMonitor.Tests.csproj",
+              "RelativeToolTip": "FileMonitor.Tests\\FileMonitor.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T14:24:41.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonPlugin.csproj",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\JsonPlugin\\JsonPlugin.csproj",
+              "RelativeDocumentMoniker": "JsonPlugin\\JsonPlugin.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\JsonPlugin\\JsonPlugin.csproj",
+              "RelativeToolTip": "JsonPlugin\\JsonPlugin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T13:56:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JsonLoader.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\JsonPlugin\\JsonLoader.cs",
+              "RelativeDocumentMoniker": "JsonPlugin\\JsonLoader.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\JsonPlugin\\JsonLoader.cs",
+              "RelativeToolTip": "JsonPlugin\\JsonLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:53:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileMonitor.csproj",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\FileMonitor.csproj",
+              "RelativeDocumentMoniker": "FileMonitor\\FileMonitor.csproj",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\FileMonitor.csproj",
+              "RelativeToolTip": "FileMonitor\\FileMonitor.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T10:10:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FileMonitor\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\App.xaml.cs",
+              "RelativeToolTip": "FileMonitor\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:42:28.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\App.xaml",
+              "RelativeDocumentMoniker": "FileMonitor\\App.xaml",
+              "ToolTip": "C:\\Users\\allah\\OneDrive\\Desktop\\FileMonitor\\FileMonitor\\App.xaml",
+              "RelativeToolTip": "FileMonitor\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-02T10:08:19.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

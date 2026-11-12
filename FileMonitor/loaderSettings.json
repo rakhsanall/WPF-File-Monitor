@@ -1,0 +1,9 @@
+{
+  "EnabledLoaders": [
+    "CSV",
+    "XML",
+    "TXT",
+    "JSON"
+
+  ]
+}
